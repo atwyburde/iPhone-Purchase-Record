@@ -1,2 +1,12 @@
 # iPhone-Purchase-Record
-Data Analysis of iPhone Purchase Records by Decision Tree.
+
+Based on 
+
+1. Gender
+
+2. Age
+  
+3. Salary
+
+provide a model for purchase prediction.
+
